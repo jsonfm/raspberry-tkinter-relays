@@ -1,3 +1,7 @@
+<img
+    src="./docs/images/relays.jpeg"
+/>
+
 ## Relays Monitor
 A GUI made with tkinter and customtkinter.
 
